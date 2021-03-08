@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="438" height="451" viewBox="0 0 438 451">
+  <defs>
+    <filter id="Path_4503" x="0" y="32" width="189.152" height="224.832" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_04" x="44" y="0" width="394" height="451" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="solutions-num" transform="translate(-1243 -5650)">
+    <g transform="matrix(1, 0, 0, 1, 1243, 5650)" filter="url(#Path_4503)">
+      <path id="Path_4503-2" data-name="Path 4503" d="M8387.933,2401.371v-38.187h-16.586V2346.6h16.586v-20.058H8348.78v74.832Z" transform="translate(-8283.78 -2222.54)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1243, 5650)" filter="url(#_04)">
+      <text id="_04-2" data-name="04" transform="translate(119 319)" fill="#fff" font-size="226" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">04</tspan></text>
+    </g>
+  </g>
+</svg>

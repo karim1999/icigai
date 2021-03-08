@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218.032" height="145.453" viewBox="0 0 218.032 145.453">
+  <g id="free-img" transform="translate(-764.254 -10994.074)">
+    <path id="Path_15745" data-name="Path 15745" d="M1406.645,13652.079s25.088,130.749,192.821,130.749" transform="translate(-639.465 -2655.079)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5" stroke-dasharray="15"/>
+    <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="matrix(-0.259, -0.966, 0.966, -0.259, 959.98, 11148.415)" fill="#fff"/>
+    <text id="FREE" transform="translate(867 11066)" fill="#fff" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">FREE</tspan></text>
+  </g>
+</svg>

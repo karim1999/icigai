@@ -1,0 +1,78 @@
+.mt-100minus {
+    margin-top: -100px;
+}
+
+.location-card {
+    background-color: transparent !important;
+}
+
+.location-card .card-body {
+    border: 5px solid white;
+    border-radius: 15px;
+    padding-bottom: 1rem !important;
+}
+
+.location-card .icon-box {
+    position: absolute;
+    top: -20%;
+    left: 40%;
+}
+
+.location-ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.location-ul li {
+    padding-bottom: 0.5rem;
+}
+
+.location-ul li a {
+    color: white;
+    font-size: 1rem;
+}
+
+
+/* Location Background Image */
+
+.location-egypt {
+    background-image: url(../uploads/contact/EGYPT.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #1E2E3D !important;
+}
+
+.location-india {
+    background-image: url(../uploads/contact/INDIA.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #1E2E3D !important;
+}
+
+.location-uae {
+    background-image: url(../uploads/contact/U.A.E.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #1E2E3D !important;
+}
+
+.location-tunisa {
+    background-image: url(../uploads/contact/TUNISA.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #1E2E3D !important;
+}
+
+.location-canada {
+    background-image: url(../uploads/contact/CANADA.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #1E2E3D !important;
+}
+
+.location-nigeria {
+    background-image: url(../uploads/contact/NIGEIRA.svg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-color: #1E2E3D !important;
+}

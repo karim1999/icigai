@@ -1,0 +1,388 @@
+*,
+*::before,
+*::after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "SF-Light";
+    src: url("../fonts/SFUIText-Light.ttf")
+}
+
+@font-face {
+    font-family: "SF-Regular";
+    src: url("../fonts/SFUIText-Regular.ttf")
+}
+
+@font-face {
+    font-family: "SF-Medium";
+    src: url("../fonts/SFUIText-Medium.ttf")
+}
+
+@font-face {
+    font-family: "SF-Semi";
+    src: url("../fonts/SFUIText-Semibold.ttf")
+}
+
+@font-face {
+    font-family: "SF-Bold";
+    src: url("../fonts/SFUIText-Bold.ttf")
+}
+
+@font-face {
+    font-family: "WS-Regular";
+    src: url("../fonts/WorkSans-Regular.ttf")
+}
+
+@font-face {
+    font-family: "WS-Medium";
+    src: url("../fonts/WorkSans-Medium.ttf")
+}
+
+body {
+    font-family: "SF-Regular";
+    background-color: #121C26;
+    color: white;
+}
+
+.container {
+    max-width: 90%;
+}
+
+.navbar {
+    padding-top: 2rem;
+}
+
+.hero-section {
+    background-image: url(../uploads/global/hero-section-bg-pattern.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #121C26;
+    justify-content: center;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: -6rem;
+    padding-bottom: 0px;
+    padding-top: 8rem;
+}
+
+.hero-section h4 {
+    font-family: "SF-Bold";
+    font-size: 2rem;
+    line-height: 3.5rem;
+    color: #FFFFFF;
+}
+
+.main-navbar-ul li a {
+    color: #FFFFFF;
+    opacity: 30%;
+    text-transform: uppercase;
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+
+.main-navbar-ul li a:hover {
+    opacity: 1;
+}
+
+.main-navbar-ul li.active a {
+    opacity: 1;
+}
+
+.main-navbar-ul li.active a::after {
+    content: '';
+    width: 1rem;
+    height: 0.5rem;
+    background-color: white;
+    border-radius: 40px 40px 0px 0px;
+    display: block;
+    margin: 0px auto;
+    margin-top: 0.2rem;
+}
+
+.border-bottom {
+    width: 50px;
+    background-color: white;
+    height: 0.5rem;
+    display: block;
+    top: 1rem;
+    position: relative;
+}
+
+.btn-outline-light {
+    border: 5px solid white;
+    padding: 0.5rem 2.5rem;
+    font-family: "SF-Bold";
+    font-size: 1.2rem;
+    border-radius: 10px;
+}
+
+.btn-secondary {
+    background-color: #3A404A !important;
+    border-radius: 5px;
+    border-color: #3A404A;
+}
+
+.btn-secondary:hover {
+    background-color: #3A404A !important;
+    border-radius: 5px;
+    border-color: #3A404A;
+    opacity: 80%;
+}
+
+.form-control {
+    height: 60px;
+}
+
+.quate-img {
+    position: absolute;
+    top: -32%;
+    left: 5rem;
+}
+
+.quate-img img {
+    text-shadow: 10px 3px 50px rgba(0, 0, 0, 0.16);
+}
+
+
+/* Heading CSS */
+
+.heading-xl {
+    font-family: "SF-Bold";
+    font-size: 5.25rem;
+    line-height: 6.25rem;
+    text-shadow: 0rem 0.3rem 2rem rgb(0 0 0 / 16%);
+}
+
+.heading-xl-light {
+    font-family: "SF-Semi";
+    font-size: 5.25rem;
+    line-height: 6.25rem;
+    text-shadow: 0rem 0.3rem 2rem rgb(0 0 0 / 16%);
+}
+
+.heading-lg {
+    font-family: "SF-Bold";
+    font-size: 3.12rem;
+    line-height: 4.12rem;
+    text-shadow: 0rem 0.3rem 2rem rgb(0 0 0 / 16%);
+}
+
+.heading-md {
+    font-family: "SF-Semi";
+    font-size: 2.25rem;
+    line-height: 3.25rem;
+    text-shadow: 0rem 0.3rem 2rem rgb(0 0 0 / 16%);
+}
+
+.heading-sm {
+    font-family: "SF-Medium";
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.heading-xs {
+    font-family: "SF-Regular";
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.heading-section-number {
+    font-family: "SF-Bold";
+    font-size: 14.25rem;
+    text-shadow: 0 0 50px rgba(0, 0, 0, 0.10);
+}
+
+
+/* Paragraph CSS */
+
+.para-lg {
+    font-family: "SF-Regular";
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.para-md {
+    font-family: "SF-Regular";
+    font-size: 1.25rem;
+    line-height: 2rem;
+}
+
+.para-sm {
+    font-family: "SF-Regular";
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+.para-xs {
+    font-family: "SF-Regular";
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+}
+
+.para-op-30 {
+    opacity: 30%;
+}
+
+.card {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.10);
+    border: 0px;
+}
+
+.about-vertical-img {
+    width: 3rem;
+    padding-top: 30rem;
+}
+
+.icigai-large {
+    right: -0.96rem;
+    position: relative;
+}
+
+.video {
+    position: absolute;
+    right: 0;
+    top: 30%;
+}
+
+.video img {
+    height: 40rem;
+}
+
+.btn-primary {
+    background-color: transparent;
+    border: transparent;
+    padding: 0px;
+}
+
+.btn-primary:hover {
+    background-color: transparent;
+    border: transparent;
+}
+
+
+/* Services Section */
+
+.services-heading {
+    font-size: 5.875rem;
+    line-height: 6.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.services-para {
+    font-size: 1.25rem;
+    line-height: 1.688rem;
+}
+
+.progress-heading {
+    font-family: "SF-Semi";
+    margin-top: 1.5rem;
+}
+
+.progress-para {
+    width: 65%;
+    margin: 0px auto;
+}
+
+.footer {
+    background-image: url(../uploads/global/footer-bg.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+}
+
+.footer-heading {
+    font-family: "WS-Medium";
+    text-transform: uppercase;
+    padding-bottom: 2.5rem;
+}
+
+.footer-ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.footer-ul li {
+    padding-bottom: 1.5rem;
+}
+
+.footer-ul li a {
+    color: white;
+    opacity: 50%;
+}
+
+.footer-ul li a:hover {
+    opacity: 1;
+    text-decoration: none;
+}
+
+.footer-ul li a.active {
+    opacity: 1;
+}
+
+.contact-ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.contact-ul li {
+    padding-bottom: 1.5rem;
+}
+
+.contact-ul li a {
+    color: white;
+}
+
+.num-img {
+    width: 16rem;
+}
+
+.social-ul {
+    padding-left: 0px;
+    list-style: none;
+}
+
+.social-ul li {
+    margin-right: 1.5rem;
+    display: inline-block;
+}
+
+.contact-data-ul {
+    padding-left: 0px;
+    list-style: none;
+    margin-top: 3rem;
+}
+
+.contact-data-ul li {
+    margin-bottom: 1.5rem;
+}
+
+.contact-data-ul li img {
+    width: 4rem;
+}
+
+.contact-data-ul li a {
+    color: white;
+}
+
+.contact-data-ul li a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    opacity: 80%;
+}
+
+.card-img-overlay {
+    background-color: rgb(0 0 0 / 30%) !important;
+}
+
+.project-card {
+    height: 100%;
+    position: relative;
+}
+
+.project-card .card-img-overlay {
+    position: relative;
+    height: 100%;
+}

@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="681" height="912" viewBox="0 0 681 912">
+  <defs>
+    <filter id="Rectangle_33" x="315" y="0" width="366" height="411" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.554" gradientTransform="translate(0.086) scale(0.828 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#afeeff"/>
+      <stop offset="0.193" stop-color="#bbf1ff"/>
+      <stop offset="0.703" stop-color="#d7f8ff"/>
+      <stop offset="1" stop-color="#e1faff"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9757"/>
+      <stop offset="1" stop-color="#ffb65b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.543" x2="0.5" y2="0.943" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21b3e7"/>
+      <stop offset="1" stop-color="#21b1e6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#42c2ed"/>
+      <stop offset="0.243" stop-color="#4dc7ef"/>
+      <stop offset="0.674" stop-color="#6cd6f6"/>
+      <stop offset="1" stop-color="#87e3fc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#40c7ee"/>
+      <stop offset="0.394" stop-color="#39c3ed"/>
+      <stop offset="0.948" stop-color="#27b8e8"/>
+      <stop offset="1" stop-color="#25b7e8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="0.757" x2="0.5" y2="-0.243" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe79f"/>
+      <stop offset="0.119" stop-color="#ffe9a6"/>
+      <stop offset="1" stop-color="#fff5d5"/>
+    </linearGradient>
+    <filter id="Rectangle_35" x="0" y="120" width="366" height="411" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient-2" cx="3.854" cy="4.49" r="3.23" gradientTransform="translate(-0.008) scale(1.016 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#efdcb1"/>
+      <stop offset="0" stop-color="#f2e0bb"/>
+      <stop offset="0.011" stop-color="#f2e0bc"/>
+      <stop offset="0.362" stop-color="#f9edd2"/>
+      <stop offset="0.699" stop-color="#fef4df"/>
+      <stop offset="1" stop-color="#fff7e4"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a4a4a4"/>
+      <stop offset="0.63" stop-color="#7f7f7f"/>
+      <stop offset="1" stop-color="#6f6f6f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#def9ff"/>
+      <stop offset="0.282" stop-color="#cff6ff"/>
+      <stop offset="0.823" stop-color="#a7efff"/>
+      <stop offset="1" stop-color="#99ecff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ddf9ff"/>
+      <stop offset="0.723" stop-color="#eafcff"/>
+      <stop offset="1" stop-color="#f1fdff"/>
+    </linearGradient>
+    <filter id="Rectangle_37" x="0" y="501" width="366" height="411" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient-3" cx="0.521" cy="0.605" r="0.757" gradientTransform="translate(0.049) scale(0.906 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f4e9c3"/>
+      <stop offset="0.219" stop-color="#f8eecd"/>
+      <stop offset="0.644" stop-color="#fdf4dc"/>
+      <stop offset="1" stop-color="#fff6e1"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-9" x1="0.5" y1="-0.005" x2="0.5" y2="0.96" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a4a4a4"/>
+      <stop offset="0.619" stop-color="gray"/>
+      <stop offset="1" stop-color="#6f6f6f"/>
+    </linearGradient>
+    <filter id="Rectangle_36" x="315" y="381" width="366" height="411" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-11" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d8d8d8"/>
+      <stop offset="0.759" stop-color="#c9c9c9"/>
+      <stop offset="1" stop-color="#c3c3c3"/>
+    </linearGradient>
+  </defs>
+  <g id="left-image" transform="translate(-166 -1830)">
+    <g id="NoPath_-_Copy_17_" data-name="NoPath - Copy (17)" transform="translate(285 1919)" fill="#1e2e3d" stroke="#fff" stroke-width="5">
+      <rect width="417" height="702" rx="15" stroke="none"/>
+      <rect x="2.5" y="2.5" width="412" height="697" rx="12.5" fill="none"/>
+    </g>
+    <g id="Group_28646" data-name="Group 28646" transform="translate(-918 -763)">
+      <g transform="matrix(1, 0, 0, 1, 1084, 2593)" filter="url(#Rectangle_33)">
+        <rect id="Rectangle_33-2" data-name="Rectangle 33" width="276" height="321" rx="15" transform="translate(360 35)" fill="#fff"/>
+      </g>
+      <g id="icons8-idea" transform="translate(1519.585 2665.404)">
+        <path id="Path_7621" data-name="Path 7621" d="M109.419,91.834h0a5.879,5.879,0,0,1,5.862,5.862h0a5.879,5.879,0,0,1-5.862,5.862h0a5.879,5.879,0,0,1-5.862-5.862h0A5.879,5.879,0,0,1,109.419,91.834ZM7.816,5.862h0a5.879,5.879,0,0,0,5.862,5.862h0a5.879,5.879,0,0,0,5.862-5.862h0A5.879,5.879,0,0,0,13.677,0h0A5.879,5.879,0,0,0,7.816,5.862ZM125.05,54.709a5.879,5.879,0,0,1-5.862,5.862H110.4a4.885,4.885,0,0,0,0,9.77h1.954a6.839,6.839,0,0,1,0,13.677H93.788a3.908,3.908,0,1,0,0,7.816,5.862,5.862,0,1,1,0,11.723H62.525A5.879,5.879,0,0,1,56.663,97.7H21.493a5.862,5.862,0,0,1,0-11.723h1.954a5.862,5.862,0,1,0,0-11.723h-12.7a6.839,6.839,0,0,1,0-13.677h2.931a3.908,3.908,0,0,0,0-7.816H6.839a6.839,6.839,0,0,1,0-13.677H17.585a3.908,3.908,0,1,0,0-7.816H13.677a5.862,5.862,0,0,1,0-11.723H31.263a3.908,3.908,0,0,0,0-7.816H29.309A5.862,5.862,0,0,1,29.309,0H99.649a5.862,5.862,0,0,1,0,11.723,5.862,5.862,0,1,0,0,11.723H114.3a6.839,6.839,0,1,1,0,13.677h-2.931a5.862,5.862,0,1,0,0,11.723h7.816A5.879,5.879,0,0,1,125.05,54.709Z" fill="url(#radial-gradient)"/>
+        <path id="Path_7622" data-name="Path 7622" d="M87.248,45.431A37.1,37.1,0,0,0,13.228,41.4a36.576,36.576,0,0,0,13.14,32.56c4.007,3.468,8.124,8.679,8.124,14.15l.289,2.048H65.4l.354-2.048c0-5.18,3.775-10.11,7.773-13.564A37.791,37.791,0,0,0,87.248,45.431Z" transform="translate(12.402 7.631)" fill="url(#linear-gradient)"/>
+        <path id="Path_7623" data-name="Path 7623" d="M43.631,62.816A7.816,7.816,0,1,1,35.816,55,7.818,7.818,0,0,1,43.631,62.816Z" transform="translate(26.709 52.465)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_7624" data-name="Path 7624" d="M45.493,70.493H33.77A9.771,9.771,0,0,1,24,60.723V49H55.263V60.723A9.771,9.771,0,0,1,45.493,70.493Z" transform="translate(22.894 46.741)" fill="url(#linear-gradient-3)"/>
+        <path id="Path_7625" data-name="Path 7625" d="M55.263,49v5.862L24,59.289V53.428ZM27.918,68.5l26.45-3.746a9.677,9.677,0,0,0,.895-4.035V58.77L24.34,63.148A9.734,9.734,0,0,0,27.918,68.5Z" transform="translate(22.894 46.741)" fill="url(#linear-gradient-4)"/>
+        <path id="Path_7626" data-name="Path 7626" d="M52.973,26.29a7.815,7.815,0,0,0-13.341,5.526,7.816,7.816,0,1,0-13.343,5.528l5.528,5.526V72.847H47.447V42.868l5.526-5.526A7.813,7.813,0,0,0,52.973,26.29Z" transform="translate(22.893 22.894)" fill="url(#linear-gradient-5)"/>
+      </g>
+      <text id="Idea" transform="translate(1556 2836)" fill="#2d3958" font-size="25" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Idea</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_in" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in" transform="translate(1481 2862)" fill="#2d3958" font-size="15" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="8.72" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="0.166" y="41">consectetur adipiscing elit, sed </tspan></text>
+    </g>
+    <g id="Group_28643" data-name="Group 28643" transform="translate(-918 -763)">
+      <g transform="matrix(1, 0, 0, 1, 1084, 2593)" filter="url(#Rectangle_35)">
+        <rect id="Rectangle_35-2" data-name="Rectangle 35" width="276" height="321" rx="15" transform="translate(45 155)" fill="#fff"/>
+      </g>
+      <text id="Plan" transform="translate(1266 2956)" fill="#2d3958" font-size="25" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-24.39" y="0">Plan</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_in-2" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in" transform="translate(1165 2982)" fill="#2d3958" font-size="15" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="8.72" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="0.166" y="41">consectetur adipiscing elit, sed </tspan></text>
+      <g id="icons8-search" transform="translate(1206 2785)">
+        <path id="Path_7627" data-name="Path 7627" d="M11.578,7.719h0A7.719,7.719,0,0,1,19.3,0h0a7.719,7.719,0,0,1,7.719,7.719h0A7.719,7.719,0,0,1,19.3,15.438h0A7.719,7.719,0,0,1,11.578,7.719ZM14.473,123.5h0a6.754,6.754,0,0,0,6.754-6.754h0a6.754,6.754,0,0,0-6.754-6.754h0a6.754,6.754,0,0,0-6.754,6.754h0A6.754,6.754,0,0,0,14.473,123.5Zm96.484-75.258H91.66A6.754,6.754,0,0,0,84.906,55h0A6.754,6.754,0,0,0,91.66,61.75h2.895a7.719,7.719,0,0,1,7.719,7.719h0a7.719,7.719,0,0,1-7.719,7.719H93.59a4.824,4.824,0,0,0-4.824,4.824h0a4.824,4.824,0,0,0,4.824,4.824H104.2a7.719,7.719,0,0,1,7.719,7.719h0a7.719,7.719,0,0,1-7.719,7.719H88.766a3.858,3.858,0,0,0-3.859,3.859h0a3.858,3.858,0,0,0,3.859,3.859h.965a6.754,6.754,0,0,1,6.754,6.754h0A6.754,6.754,0,0,1,89.73,123.5H33.77a6.754,6.754,0,0,1-6.754-6.754h0a6.754,6.754,0,0,1,6.754-6.754h0a4.824,4.824,0,0,0,4.824-4.824h0a4.824,4.824,0,0,0-4.824-4.824h-16.4a7.719,7.719,0,0,1-7.719-7.719h0a7.719,7.719,0,0,1,7.719-7.719h8.684A6.754,6.754,0,0,0,32.8,78.152h0A6.754,6.754,0,0,0,26.051,71.4H9.648A9.649,9.649,0,0,1,0,61.75H0A9.649,9.649,0,0,1,9.648,52.1h5.789a5.789,5.789,0,0,0,5.789-5.789h0a5.789,5.789,0,0,0-5.789-5.789H10.613A6.754,6.754,0,0,1,3.859,33.77h0a6.754,6.754,0,0,1,6.754-6.754h35.7A5.789,5.789,0,0,0,52.1,21.227h0a5.789,5.789,0,0,0-5.789-5.789H42.453a7.719,7.719,0,0,1-7.719-7.719h0A7.719,7.719,0,0,1,42.453,0H88.766a7.719,7.719,0,0,1,7.719,7.719h0a7.719,7.719,0,0,1-7.719,7.719H84.906a7.719,7.719,0,0,0-7.719,7.719h0a7.719,7.719,0,0,0,7.719,7.719h26.051a8.684,8.684,0,0,1,8.684,8.684h0A8.684,8.684,0,0,1,110.957,48.242ZM121.57,69.469h0a7.719,7.719,0,0,0-7.719-7.719h0a7.719,7.719,0,0,0-7.719,7.719h0a7.719,7.719,0,0,0,7.719,7.719h0A7.719,7.719,0,0,0,121.57,69.469Z" fill="url(#radial-gradient-2)"/>
+        <path id="Path_7628" data-name="Path 7628" d="M102.187,90.9l.012-.012-23.6-23.6a39.589,39.589,0,1,0-11.3,11.3l23.6,23.6a7.612,7.612,0,0,0,10.77,0l.517-.517A7.625,7.625,0,0,0,102.187,90.9Z" transform="translate(5.578 5.578)" fill="url(#linear-gradient-6)"/>
+        <path id="Path_7629" data-name="Path 7629" d="M39.98,12a27.98,27.98,0,1,0,27.98,27.98A27.98,27.98,0,0,0,39.98,12Z" transform="translate(11.156 11.156)" fill="url(#linear-gradient-7)"/>
+        <path id="Path_7630" data-name="Path 7630" d="M39.98,12a4.824,4.824,0,0,1,0,9.648H33.227a3.859,3.859,0,0,0,0,7.719h.965a4.824,4.824,0,0,1,0,9.648H25.508a3.859,3.859,0,0,0,0,7.719h.965a4.824,4.824,0,0,1,0,9.648H17.345A27.946,27.946,0,0,1,39.98,12ZM47.7,29.367a4.824,4.824,0,1,0,4.824,4.824A4.824,4.824,0,0,0,47.7,29.367Z" transform="translate(11.156 11.156)" fill="url(#linear-gradient-8)"/>
+      </g>
+    </g>
+    <g id="Group_28644" data-name="Group 28644" transform="translate(-918 -763)">
+      <g transform="matrix(1, 0, 0, 1, 1084, 2593)" filter="url(#Rectangle_37)">
+        <rect id="Rectangle_37-2" data-name="Rectangle 37" width="276" height="321" rx="15" transform="translate(45 536)" fill="#fff"/>
+      </g>
+      <text id="Implement" transform="translate(1266 3337)" fill="#2d3958" font-size="25" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-61.676" y="0">Implement</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_in-3" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in" transform="translate(1165 3363)" fill="#2d3958" font-size="15" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="8.72" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="0.166" y="41">consectetur adipiscing elit, sed </tspan></text>
+      <g id="icons8-github" transform="translate(1199.003 3163)">
+        <path id="Path_7631" data-name="Path 7631" d="M108.662,76.121a4.411,4.411,0,0,0,4.429,3.535h11.477a9.606,9.606,0,0,1,9.539,10.561,9.891,9.891,0,0,1-9.986,8.6H104.34a4.246,4.246,0,0,0-4.195,4.983,4.411,4.411,0,0,0,4.429,3.535h17.865a9.582,9.582,0,0,1,0,19.164H18.1a11.711,11.711,0,0,1,0-23.422H29.814A4.246,4.246,0,0,0,34.009,98.1c-.341-2.087-2.3-7.793-4.429-7.793H11.715A9.606,9.606,0,0,1,2.176,79.74a9.891,9.891,0,0,1,9.986-8.6h4.876a6.394,6.394,0,0,0,6.388-6.729,6.661,6.661,0,0,0-6.75-6.047H9.586A9.606,9.606,0,0,1,.046,47.8a9.906,9.906,0,0,1,9.986-8.6H42.59a6.388,6.388,0,0,0,0-12.776H40.077a42.161,42.161,0,0,0-4.94,0H15.973A11.711,11.711,0,1,1,15.973,3H120.31a11.74,11.74,0,0,1,11.647,12.9c-.618,6.09-3.961,10.519-10.072,10.519H110.728a10.647,10.647,0,1,0,0,21.293h13.841a11.74,11.74,0,0,1,11.647,12.9c-.618,6.09-6.09,10.519-12.2,10.519H112.857A4.246,4.246,0,0,0,108.662,76.121Z" transform="translate(0 0)" fill="url(#radial-gradient-3)"/>
+        <path id="Path_7632" data-name="Path 7632" d="M103.171,54.586a48.586,48.586,0,0,1-42.98,48.268,50.47,50.47,0,0,1-5.606.318,48.586,48.586,0,1,1,48.586-48.586Z" transform="translate(13.556 10.172)" fill="url(#linear-gradient-9)"/>
+        <path id="Path_7633" data-name="Path 7633" d="M22.994,57.176l-.04-.013Z" transform="translate(25.926 61.167)" fill="#fff"/>
+        <path id="Path_7634" data-name="Path 7634" d="M63.791,92.143V80.434c0-5.107-3.422-11.887-8.112-14.3C72.722,64.4,80.854,56.029,80.854,44.673A20.5,20.5,0,0,0,75.183,31.09c1.192-3.95,2.691-12.055-.435-15.133A17.907,17.907,0,0,0,61.3,22.2a39.291,39.291,0,0,0-24.928-.007,17.923,17.923,0,0,0-13.438-6.236c-3.113,3.074-1.631,11.145-.452,15.1a20.506,20.506,0,0,0-5.707,13.613c0,11.363,8.146,19.735,25.214,21.466-2.96,1.525-5.382,4.754-6.783,8.261a49.747,49.747,0,0,1-7.222.51c-3.814,0-4.774-.6-6.817-3.238s-4.229-4.412-6.856-5.144c-1.422-.148-2.362.944-1.129,1.9,4.16,2.872,4.451,7.566,6.129,10.637,1.514,2.762,4.632,4.248,8.138,4.248h6.441v8.852c0,.467,7.471,2.465,14.946,2.465C57.346,94.627,63.791,92.341,63.791,92.143Z" transform="translate(19.3 18.821)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_28645" data-name="Group 28645" transform="translate(-918 -763)">
+      <g transform="matrix(1, 0, 0, 1, 1084, 2593)" filter="url(#Rectangle_36)">
+        <rect id="Rectangle_36-2" data-name="Rectangle 36" width="276" height="321" rx="15" transform="translate(360 416)" fill="#fff"/>
+      </g>
+      <text id="Support" transform="translate(1582 3217)" fill="#2d3958" font-size="25" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-46.13" y="0">Support</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_in-4" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in" transform="translate(1481 3243)" fill="#2d3958" font-size="15" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="8.72" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="0.166" y="41">consectetur adipiscing elit, sed </tspan></text>
+      <g id="icons8-services" transform="translate(1516 3044)">
+        <path id="Path_7635" data-name="Path 7635" d="M124.53,102.858a7.223,7.223,0,0,0,7.044-8.734,7.351,7.351,0,0,0-7.268-5.675H92.625a4.116,4.116,0,0,1-4.117-4.117h0a4.116,4.116,0,0,1,4.117-4.117h13.142a7.365,7.365,0,0,0,7.28-5.675A7.223,7.223,0,0,0,106,65.808H91.6a5.145,5.145,0,0,1-5.146-5.146h0A5.145,5.145,0,0,1,91.6,55.517l1.029-6.175-2.058-6.175h29.409a9.565,9.565,0,0,0,9.652-8.314,9.288,9.288,0,0,0-9.215-10.211H107.034a4.116,4.116,0,0,1-4.117-4.117h0a4.116,4.116,0,0,1,4.117-4.117h11.084a7.365,7.365,0,0,0,7.28-5.675A7.223,7.223,0,0,0,118.355,2H46.55a7.365,7.365,0,0,0-7.28,5.675,7.223,7.223,0,0,0,7.044,8.734h7.2a6.175,6.175,0,0,1,6.175,6.175h0a6.175,6.175,0,0,1-6.175,6.175h-39.9a7.365,7.365,0,0,0-7.28,5.675,7.223,7.223,0,0,0,7.044,8.734h1.029a4.116,4.116,0,0,1,4.117,4.117h0A4.116,4.116,0,0,1,14.409,51.4H9.7A9.565,9.565,0,0,0,.048,59.712,9.287,9.287,0,0,0,9.263,69.925h5.146a4.116,4.116,0,0,1,4.117,4.117h0a4.116,4.116,0,0,1-4.117,4.117H11.558a7.365,7.365,0,0,0-7.28,5.675,7.223,7.223,0,0,0,7.044,8.734H51.459v12.35a6.175,6.175,0,0,1-6.175,6.175H40.375a7.365,7.365,0,0,0-7.28,5.675,7.223,7.223,0,0,0,7.044,8.734h80.038a7.365,7.365,0,0,0,7.28-5.675,7.223,7.223,0,0,0-7.044-8.734h-3.088a4.116,4.116,0,0,1-4.117-4.117h0a4.116,4.116,0,0,1,4.117-4.117Z" transform="translate(0 0)" fill="#6432f1" opacity="0.14"/>
+        <path id="Path_7636" data-name="Path 7636" d="M75.882,53.214l-7.243-1.949a26.717,26.717,0,0,0-1.3-3.125l3.454-6.163a5.7,5.7,0,0,0-.91-6.875L68,33.22a5.7,5.7,0,0,0-6.875-.91L54.96,35.764a27.074,27.074,0,0,0-3.125-1.3l-1.949-7.243A5.7,5.7,0,0,0,44.382,23H41.718a5.7,5.7,0,0,0-5.5,4.218l-1.949,7.243a26.716,26.716,0,0,0-3.125,1.3L24.978,32.31a5.7,5.7,0,0,0-6.875.91L16.22,35.1a5.7,5.7,0,0,0-.91,6.875l3.454,6.163a27.074,27.074,0,0,0-1.3,3.125l-7.243,1.949A5.7,5.7,0,0,0,6,58.718v2.663a5.7,5.7,0,0,0,4.218,5.5l7.243,1.949a26.716,26.716,0,0,0,1.3,3.125L15.31,78.122A5.7,5.7,0,0,0,16.22,85L18.1,86.88a5.7,5.7,0,0,0,6.875.91l6.163-3.454a26.716,26.716,0,0,0,3.125,1.3l1.949,7.243a5.7,5.7,0,0,0,5.5,4.218h2.663a5.7,5.7,0,0,0,5.5-4.218l1.949-7.243a26.716,26.716,0,0,0,3.125-1.3l6.163,3.454A5.7,5.7,0,0,0,68,86.88L69.88,85a5.7,5.7,0,0,0,.91-6.875L67.336,71.96a27.075,27.075,0,0,0,1.3-3.125l7.243-1.949a5.7,5.7,0,0,0,4.218-5.5V58.718A5.7,5.7,0,0,0,75.882,53.214Z" transform="translate(6.35 22.225)" fill="url(#linear-gradient-6)"/>
+        <path id="Path_7637" data-name="Path 7637" d="M31.408,34A14.408,14.408,0,1,0,45.817,48.408,14.408,14.408,0,0,0,31.408,34Z" transform="translate(17.992 33.867)" fill="url(#linear-gradient-11)"/>
+        <path id="Path_7638" data-name="Path 7638" d="M27.175,38a6.175,6.175,0,1,0,6.175,6.175A6.175,6.175,0,0,0,27.175,38Z" transform="translate(22.225 38.1)" fill="#fff"/>
+        <path id="Path_7639" data-name="Path 7639" d="M76.668,41.882l5.3.169a3.087,3.087,0,0,0,2.97-2.289l.469-1.75a3.087,3.087,0,0,0-1.418-3.462l-4.658-2.631c0-.051.006-.1.006-.161a20.565,20.565,0,0,0-.766-5.5l3.987-4.135a3.086,3.086,0,0,0,.482-3.717l-.906-1.568a3.088,3.088,0,0,0-3.452-1.445l-5.265,1.933a20.634,20.634,0,0,0-4.543-3.477l.171-5.3a3.087,3.087,0,0,0-2.289-2.97l-1.75-.469A3.087,3.087,0,0,0,61.55,6.524l-2.631,4.658c-.051,0-.1-.006-.161-.006a20.564,20.564,0,0,0-5.5.766L49.122,7.954A3.086,3.086,0,0,0,45.4,7.473l-1.568.906a3.088,3.088,0,0,0-1.445,3.452L44.324,17.1a20.633,20.633,0,0,0-3.477,4.543l-5.3-.171a3.087,3.087,0,0,0-2.97,2.289l-.469,1.75a3.087,3.087,0,0,0,1.418,3.462L38.182,31.6c0,.051-.006.1-.006.161a20.564,20.564,0,0,0,.766,5.5L34.954,41.4a3.086,3.086,0,0,0-.482,3.717l.906,1.568a3.088,3.088,0,0,0,3.452,1.445L44.1,46.194a20.633,20.633,0,0,0,4.543,3.477l-.171,5.3a3.087,3.087,0,0,0,2.289,2.97l1.75.469a3.087,3.087,0,0,0,3.462-1.418L58.6,52.336c.051,0,.1.006.161.006a20.565,20.565,0,0,0,5.5-.766L68.4,55.563a3.086,3.086,0,0,0,3.717.482l1.568-.906a3.088,3.088,0,0,0,1.445-3.452l-1.933-5.265A20.627,20.627,0,0,0,76.668,41.882Z" transform="translate(33.867 3.175)" fill="url(#linear-gradient-6)"/>
+        <path id="Path_7640" data-name="Path 7640" d="M50.292,13A10.292,10.292,0,1,0,60.583,23.292,10.292,10.292,0,0,0,50.292,13Z" transform="translate(42.334 11.642)" fill="url(#linear-gradient-11)"/>
+        <path id="Path_7641" data-name="Path 7641" d="M47.117,16a4.117,4.117,0,1,0,4.117,4.117A4.117,4.117,0,0,0,47.117,16Z" transform="translate(45.509 14.817)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

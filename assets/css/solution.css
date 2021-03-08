@@ -1,0 +1,212 @@
+.solutionTab-ul {
+    border-color: #5B636A !important;
+}
+
+.solutionTab-ul li {
+    padding-right: 1.8rem;
+}
+
+.solutionTab-ul li a {
+    font-family: "SF-Semi" !important;
+    border: 0px !important;
+    color: white;
+    opacity: 30%;
+}
+
+.solutionTab-ul li a.active {
+    background-color: transparent !important;
+    color: white !important;
+    opacity: 1 !important;
+    border-bottom: 5px solid #ffffff !important;
+}
+
+.lorem-tab-ul {
+    border: 0px !important;
+}
+
+.lorem-tab-ul li {
+    margin: 0.5rem 0rem;
+}
+
+.lorem-tab-ul li a:hover {
+    background-color: white !important;
+    color: #000000;
+    border-radius: 15px !important;
+}
+
+.lorem-tab-ul li a {
+    color: white;
+    border: 0px !important;
+    padding: 1rem 1.5rem;
+}
+
+.lorem-tab-ul li a.active {
+    border-radius: 15px !important;
+}
+
+.solutionlist-ul {
+    border: 0px !important;
+}
+
+.solutionlist-ul li {
+    width: 100%;
+    margin: 0.5rem 0rem;
+}
+
+.solutionlist-ul li a {
+    color: white;
+    border: 0px !important;
+}
+
+.solutionlist-ul li a.active {
+    border-radius: 0px !important;
+    color: #3A404A !important;
+}
+
+.solutionlist-ul li a:hover {
+    background-color: white;
+    border-radius: 0px !important;
+    color: #3A404A !important;
+}
+
+.blueprint-card-right {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.10);
+    position: absolute;
+    width: 35%;
+    right: -4rem;
+    margin: auto;
+    top: 2rem;
+    border: 0px;
+    z-index: 5;
+}
+
+.blueprint-card-bottom {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.10) !important;
+    position: absolute;
+    width: 70%;
+    left: -2%;
+    margin: auto;
+    bottom: 15%;
+    z-index: 2;
+}
+
+.demo-form-section {
+    background-image: url(../uploads/solution/demo-bg.svg);
+    background-size: 60% 90%;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+}
+
+.demo-section {
+    background-image: url(../uploads/solution/demo-bg-top.svg);
+    background-size: 40% 80%;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+}
+
+.special-group-icon {
+    border: 0;
+    padding-left: 0;
+    height: 2.5rem;
+    border-radius: 40px 0px 0px 40px;
+}
+
+.special-group {
+    border: 0;
+    padding-left: 0;
+    height: 2.5rem;
+    border-radius: 0px 20px 0px 0px !important;
+}
+
+.card-form {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.10);
+    border: 0px;
+}
+
+.card {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.10);
+    border: 0px;
+}
+
+.sup-text {
+    font-size: 1.2rem !important;
+    position: relative;
+    top: -1.5rem;
+}
+
+.sub-text {
+    font-size: 1.2rem !important;
+}
+
+.table-ul {
+    padding-left: 0px;
+    list-style: none;
+}
+
+.table-ul li {
+    margin-bottom: 0.8rem;
+    font-size: 0.8rem;
+    text-align: left !important;
+}
+
+.table-ul li img {
+    margin-right: 10px;
+}
+
+.pricing-table-bg {
+    background-image: url(../uploads/solution/pricing-table-bg.svg);
+    background-size: 19% 60%;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+}
+
+.table-active,
+.thead-light {
+    background-color: #DBDCDE !important;
+}
+
+.professional-table-bg {
+    background-image: url(../uploads/solution/professional-service.svg);
+    background-size: contain;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.faq-ul {
+    border: 0px !important;
+}
+
+.faq-ul li {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.faq-ul li a {
+    border: 0px !important;
+    border-radius: 0px !important;
+    color: white;
+}
+
+.faq-ul li a.active {
+    color: #3A404A !important;
+}
+
+.faq-section-bg {
+    background-image: url(../uploads/solution/faq-bg.svg);
+    background-size: 25% 75%;
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+
+.faq-ul {
+    border: 5px solid white !important;
+    padding: 20px 40px;
+    position: absolute;
+    width: 90%;
+    background-color: #1E2E3D;
+    left: 0;
+}
+
+.faq-ul li a {
+    width: 170%;
+}

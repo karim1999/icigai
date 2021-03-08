@@ -1,0 +1,67 @@
+.project-hero {
+    background-image: url(../uploads/ourprojects/ourproject-hero.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #121C26;
+    justify-content: center;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: -6rem;
+    padding-bottom: 0px;
+    padding-top: 8rem;
+    height: 100vh;
+}
+
+.work-portfolio-ul,
+.work-portfolio-ul li a {
+    border: 0px !important;
+}
+
+.work-portfolio-ul li a {
+    color: white;
+    opacity: 30%;
+}
+
+.work-portfolio-ul li a.active {
+    opacity: 1;
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.project-card {
+    background-color: transparent !important;
+}
+
+.project-card .card-img-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background: rgba(0, 0, 0, 0);
+    border-radius: 10px;
+}
+
+.project-card {
+    margin-bottom: 15px !important;
+}
+
+.project-card:hover>.card-img-overlay {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.content-box {
+    top: 30%;
+    position: absolute;
+}
+
+.tab-sup {
+    background-color: #3A404A;
+    padding: 0.2rem 1rem;
+    border-radius: 10rem;
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+  <g id="professional-table-icon" transform="translate(-383.569 -1534.569)">
+    <rect id="Rectangle_14103" data-name="Rectangle 14103" width="83" height="83" rx="10" transform="translate(392.569 1543.569)" fill="#e9eaed"/>
+    <g id="Group_27899" data-name="Group 27899" transform="translate(384 1535)">
+      <rect id="Rectangle_14100" data-name="Rectangle 14100" width="84" height="84" rx="10" transform="translate(-0.431 -0.431)" fill="#3a404a"/>
+      <path id="important" d="M26.741.922A3.122,3.122,0,0,0,24.516,0H1.575A1.573,1.573,0,0,0,.463,2.685l9.748,9.748a.212.212,0,0,1,0,.3L.463,22.481a1.573,1.573,0,0,0,1.112,2.685H24.516a3.126,3.126,0,0,0,2.225-.922L37.291,13.7a1.572,1.572,0,0,0,0-2.224Zm-2.225,21.1H5.373l7.064-7.064a3.292,3.292,0,0,0,.573-.8H17.3a1.573,1.573,0,0,0,0-3.146H13.009a3.308,3.308,0,0,0-.573-.8L5.373,3.146H24.517l9.437,9.437Zm0,0" transform="translate(22.783 29.295)" fill="#fff" stroke="#3a404a" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

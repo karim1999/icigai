@@ -1,0 +1,30 @@
+.polygon-section {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.polygon-section ul {
+    list-style: none;
+    display: table;
+    margin: auto;
+}
+
+.polygon-section ul:not(:first-child) {
+    margin-top: -3.5rem;
+}
+
+.polygon-section ul li {
+    float: left;
+}
+
+.polygon-section ul li .polygon-box {
+    margin: 0.8rem;
+    width: 10rem;
+    height: 11rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    box-shadow: 0 0 30px rgba(0, 0, 0 / 16);
+}

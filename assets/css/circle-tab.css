@@ -1,0 +1,93 @@
+/* Circle Services Tab*/
+
+.main {
+    position: relative;
+    border: 1px solid #6282D1;
+    border-radius: 50%;
+    width: 32rem;
+    height: 32rem;
+}
+
+.main .midBox {
+    position: relative;
+    margin: 0px auto;
+    width: 50%;
+    top: 90%;
+    transform: translateY(-50%);
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+    z-index: 1;
+}
+
+.main .midBox h2 {
+    font-family: "SF-Semi"
+}
+
+.circle {
+    position: absolute;
+    left: calc(50% - 3rem);
+    top: calc(50% - 3rem);
+    height: 7rem;
+    width: 7rem;
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+    background-color: #ffffff;
+    z-index: 5;
+}
+
+.circle:nth-child(1) {
+    transform: translateX(16rem);
+}
+
+.circle:nth-child(2) {
+    transform: rotate(72deg) translateX(15rem);
+}
+
+.circle:nth-child(3) {
+    transform: rotate(144deg) translateX(15.5rem);
+}
+
+.circle:nth-child(4) {
+    transform: rotate(216deg) translateX(16rem);
+}
+
+.circle:nth-child(5) {
+    transform: rotate(288deg) translateX(16rem);
+}
+
+.circle:nth-child(2) a {
+    transform: rotate(-72deg);
+}
+
+.circle:nth-child(3) a {
+    transform: rotate(-144deg);
+}
+
+.circle:nth-child(4) a {
+    transform: rotate(-216deg);
+}
+
+.circle:nth-child(5) a {
+    transform: rotate(-288deg);
+}
+
+.circle:nth-child(1) a img {
+    transform: translateX(0.5rem) translateY(1rem);
+}
+
+.circle:nth-child(2) a img {
+    transform: translateX(0.5rem) translateY(1rem);
+}
+
+.circle:nth-child(3) a img {
+    transform: translateX(0.5rem) translateY(1rem);
+}
+
+.circle:nth-child(4) a img {
+    transform: translateX(0.5rem) translateY(1rem);
+}
+
+.circle:nth-child(5) a img {
+    transform: translateX(0.5rem) translateY(1rem);
+}
