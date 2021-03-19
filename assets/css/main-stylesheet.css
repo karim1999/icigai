@@ -95,7 +95,9 @@
     left: 100%;
     width: 70%;
 }
-
+.typed-cursor{
+  display: none;
+}
 .animated-btn:hover .icon-right.after:after {
     left: -80px;
     color: white;
