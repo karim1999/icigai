@@ -252,6 +252,33 @@ body {
     height: 60px;
 }
 
+.prev-next-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.main-section .our-solutions .service-detail .next-cont {
+  font-size: 1rem !important;
+
+}
+.prev-cont {
+    cursor: pointer;
+}
+.dot{
+  cursor: pointer;
+}
+.next-cont {
+    cursor: pointer;
+}
+
+.prev-next-cont .prev-cont .prev-title .next-title{
+    font-family: SFMedium;
+    font-size: 1rem !important;
+    line-height: 2rem;
+    color: #FFFFFF;
+}
 .quate-img {
     position: absolute;
     top: -32%;

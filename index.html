@@ -234,56 +234,56 @@
                 </div>
                 <div class="col-xl-5 col-lg-5 col-sm-5 col-12 my-auto">
                     <ul class="nav nav-tabs tab-with-slider  animate__animated animate__fadeInDown animate__delay-1s" role="tablist">
-                        <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#tabs-1" role="tab">
+                        <li class="nav-item" onclick="currentSlide(1)">
+                            <a class="nav-link active dot" >
                                 <h6 class="tab-heading">01</h6>
                                 <p class="tab-para">Software <br>Development</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-2" role="tab">
+                        <li class="nav-item" onclick="currentSlide(2)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">02</h6>
                                 <p class="tab-para">Testing <br>and QA</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-3" role="tab">
+                        <li class="nav-item" onclick="currentSlide(3)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">03</h6>
                                 <p class="tab-para">Application <br>Services</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-4" role="tab">
+                        <li class="nav-item" onclick="currentSlide(4)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">04</h6>
                                 <p class="tab-para">UI/UX Design <br>and Development</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-5" role="tab">
+                        <li class="nav-item" onclick="currentSlide(5)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">05</h6>
                                 <p class="tab-para">Infrastructure <br>Services</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-6" role="tab">
+                        <li class="nav-item" onclick="currentSlide(6)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">06</h6>
                                 <p class="tab-para">Managed IT <br>Services</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-7" role="tab">
+                        <li class="nav-item" onclick="currentSlide(7)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">07</h6>
                                 <p class="tab-para">IT <br>Outsourcing</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-8" role="tab">
+                        <li class="nav-item" onclick="currentSlide(8)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">08</h6>
                                 <p class="tab-para">IT <br>Consulting</p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#tabs-9" role="tab">
+                        <li class="nav-item" onclick="currentSlide(9)">
+                            <a class="nav-link dot" >
                                 <h6 class="tab-heading">09</h6>
                                 <p class="tab-para">IT <br>Support</p>
                             </a>
@@ -293,68 +293,158 @@
                 <div class="col-xl-3 col-lg-7 col-sm-7 col-12">
                     <!-- Tab panes -->
                     <div class="tab-content animate__animated animate__fadeInRight">
-                        <div class="tab-pane active" id="tabs-1" role="tabpanel">
+                        <div class="tab-pane active ss" id="tabs-1" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">Software <br> Development </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">IT <br> Consulting</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">Testing and <br> QA</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-2" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-2" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">Testing <br> and QA </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">Software <br> Development</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">Application <br> Services</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-3" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-3" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">Application <br> Services </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">Testing <br> and QA</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">UI/UX Design <br> and Development</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-4" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-4" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">UI/UX Design <br> and Development </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">Application <br> Services</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">Infrastructure <br> Services</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-5" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-5" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">Infrastructure <br> Services </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">UI/UX Design <br> and Development</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">Managed IT <br> Services</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-6" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-6" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">Managed IT <br> Services </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">Infrastructure <br> Services</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">IT <br> Outsourcing</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-7" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-7" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">IT <br> Outsourcing </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">Managed IT <br> Services</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">IT <br> Consulting</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-8" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-8" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">IT <br> Consulting </h4>
                             <p class="mt-5 para-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">IT <br> Outsourcing</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">IT <br> Support</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                         </div>
-                        <div class="tab-pane" id="tabs-9" role="tabpanel">
+                        <div class="tab-pane ss" id="tabs-9" role="tabpanel">
                             <img src="assets/uploads/home/software development.svg" alt="" class="img-fluid">
                             <h4 class="mt-5 heading-sm">IT <br> Support </h4>
                             <p class="mt-5 pada-sm">
                                 We believe in channeling a systematic approach for our software development solutions irrespective of their complexity. We deploy advanced technology for software development projects
                             </p>
+                            <div class="prev-next-cont">
+                                <div class="prev-cont" onclick="plusSlides(-1)">
+                                    <h1 class="prev-title" style="font-size:1rem">IT <br> Consulting</h1>
+                                    <img src="img/prev-icon.svg" alt="prev-icon" class="prev-icon">
+                                </div>
+                                <div class="next-cont" onclick="plusSlides(1)">
+                                    <h1 class="next-title" style="font-size:1rem">Software <br> Development</h1>
+                                    <img src="img/next-icon.svg" alt="next-icon" class="next-icon">
+                                </div>
+                            </div>
                             <!-- <div class="row mt-5">
                                 <div class="col-xl-6 col-lg-6 col-sm-6 col-6">
                                     IT <br>Support
@@ -1374,6 +1464,7 @@
 
     <!-- Bootstrap 4.6.0 JS -->
     <script src="assets/js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 </html>
