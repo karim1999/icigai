@@ -269,6 +269,9 @@ body {
 .dot{
   cursor: pointer;
 }
+.dot1{
+  cursor: pointer;
+}
 .next-cont {
     cursor: pointer;
 }
