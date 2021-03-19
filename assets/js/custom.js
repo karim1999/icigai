@@ -50,8 +50,9 @@ function showSlides1(n) {
     var i;
     var slides = document.getElementsByClassName("ss1");
     var dots = document.getElementsByClassName("dot1");
+
     if (n > slides.length-1) { slideIndex1 = 1 }
-    if (n < 1) { slideIndex1 = slides.length }
+    if (n < 1 || n == 10) { slideIndex1 = slides.length }
     for (i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
     }
