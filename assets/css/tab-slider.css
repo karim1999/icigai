@@ -83,7 +83,9 @@
 .tab-with-slider li a:hover {
     opacity: 1;
 }
-
+.typed-cursor{
+  display: none;
+}
 .solution-tab-content {
     background-color: #1E2E3D;
     padding: 40px;
